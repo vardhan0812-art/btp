@@ -11,3 +11,5 @@ image_rgb = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
 plt.imshow(image_rgb)
 plt.axis('off')  # Hide the axes
 plt.show()
+
+print("hwllo")
